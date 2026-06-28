@@ -1,6 +1,8 @@
 # USB-C-hole-mesurements
 Just mesurements about the usb c hole and constraints for 3d printing
 
-<img width="696" height="415" alt="Copie d&#39;écran_20260621_094712" src="https://github.com/user-attachments/assets/67a26c7e-c6ac-41dc-b3a5-49bb8295ac5e" />
+The 3d model for freeCAD is included
 
-<img width="584" height="473" alt="Copie d&#39;écran_20260621_094755" src="https://github.com/user-attachments/assets/79906a73-d612-44e5-b41e-5e4ae4ff5f05" />
+<img width="696" height="415" alt="9.2 millimeter legth, 3.2 millimeter width, 1.25 millimeter rouded corner" src="./UsbCfrontfacing.png" />
+
+<img width="584" height="473" alt="1 millimeter thick" src="./UsbCbiasedfacing.png" />
